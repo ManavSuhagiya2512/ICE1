@@ -7,12 +7,14 @@ package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
  * The class where we create Cards
- * @author dancye, 2019
+ * My name is Manav
  */
 public class CardDealer 
 {
     public static void main(String[] args)
     {
+        Card Queen=new Card("Hearts",)
+        Queen.serSuit("Clubs")
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
     }
