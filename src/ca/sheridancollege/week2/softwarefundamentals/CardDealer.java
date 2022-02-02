@@ -19,6 +19,8 @@ public class CardDealer
         Heart.setSuit("Queen");
         Card Black = new Card("Heart", 9);
         Black.setSuit("Heart");
+        Card Black = new Card("Heart", 9);
+        Black.setSuit("Heart");
         System.out.println(nineClubs.getSuit);
         System.out.println(Heart.getSuit);
         System.out.println(Black.getSuit);
